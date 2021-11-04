@@ -68,3 +68,26 @@ switch(months){
         document.write("enter the valid value");                            
 
 }
+document.write("<br>");
+var a = 1;
+ while (a <= 10){
+  document.write("what is time being happening<br>");
+  a = a + 1;
+ }
+ var a = 1;
+ while (a <= 20){
+     document.write(a + ") devskcode<br> ");
+     a = a + 1;
+ }
+ console.log();
+ var a = 1;
+ do{
+     document.write("class <br>" );
+ }while (a <= 10)
+ document.write("<br>");
+ for(var a=1; a <=5; a=a+1){
+     document.write("programing<br>");
+ }
+
+     
+ 
