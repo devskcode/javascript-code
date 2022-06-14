@@ -1,0 +1,14 @@
+console.log("Concat");
+document.write("zeeshan<br>");
+document.write("<i>college<br></i>");
+  var a=1;
+  var b=4;
+  var c=a+b;
+document.write(c);
+document.write("<br>");
+var x= 'y';
+ x=3.14;
+//   x="school";
+document.write(x);
+document.write("<br>");
+document.write(typeof x);
