@@ -51,12 +51,39 @@ var a= 5;
  var lastname = "kanwal";
  fullname = firstname +""+lastname; 
 console.log(fullname);
-var name =prompt("what is your name?" );
-console.log(name);
-var web =prompt("website want to be friend to you");
-console.log(web);
-
-
+//var name =prompt("what is your name?" );
+//console.log(name);
+//var web =prompt("website want to be friend to you");
+//console.log(web);
+ var a=2;
+    b=3;
+console.log(a==b);
+console.log(a!=b);
+console.log(a<b);
+console.log(a>b);
+console.log(a>=b);
+console.log(a<=b);
+var a=70;
+    b=a>=33;
+ console.log("you have pass"); 
+ //or operator  
+var r = 3;
+   p=4;
+   q=(r<p || r>p);
+console.log(q);
+//Not operator
+var a=1;
+var b =2;
+c= !(a<b)
+console.log(c);
+var a=60;
+b= (a<100);
+c=!b;
+d=!(a>100);
+console.log("A="+a);
+console.log("B="+b);
+console.log("C="+c);
+console.log("d="+d);
 
 
 
